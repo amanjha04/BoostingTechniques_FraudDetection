@@ -1,0 +1,2 @@
+# BoostingTechniques_FraudDetection
+In this notebook, we will apply various boosting algorithms to solve an interesting classification problem from the domain of 'digital fraud'.  The analysis is divided into the following sections: - Understanding the business problem - Understanding and exploring the data - Feature engineering: Creating new features - Model building and evaluation: AdaBoost - Modelling building and evaluation: Gradient Boosting - Modelling building and evaluation: XGBoost
